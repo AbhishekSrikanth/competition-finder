@@ -8,7 +8,7 @@ A simple web application to find upcoming coding contests in Codechef.com and Co
 ### Requirements
 
 - Python 3.6+
-- Python dependecies can be installed from requirements.txt
+- Python dependencies can be installed from requirements.txt
 
 ```shell
 $ pip install -r requirements.txt
@@ -58,4 +58,4 @@ This is a simple and light weight application which uses Flask as backend server
 - **HTML** and **CSS** Frontend with **Bootstrap 4**
 - **Flask-sessions** used to know if user is logged in.
 
-This application is minimalistically designed with only the required UI elements and no clutter. The user needs to be logged-in to view their Dashboard where all the competitions are neatly presented in a list-view.
+This application is design to be minimalistic with only the required UI elements and no clutter. The user needs to be logged-in to view their Dashboard where all the competitions are neatly presented in a list-view.

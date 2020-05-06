@@ -1,4 +1,5 @@
 import requests
+import urllib3
 from bs4 import BeautifulSoup
 
 class CodeForces:
